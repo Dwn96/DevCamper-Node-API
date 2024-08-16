@@ -15,7 +15,7 @@
     "express": "^4.17.3",
     "mongoose": "^5.13.16",
     "morgan": "^1.9.1",
-    "node-geocoder": "^3.25.1",
+    "node-geocoder": "^4.4.0",
     "slugify": "^1.4.0"
   },
   "devDependencies": {
